@@ -9,8 +9,9 @@ def tampil2():
 
     if st.button("Periksa"):
         if jawaban == "3":
-            st.success("Benar, selamat anda mendapatkan tepuk tangan 🎉")
+            st.success("Benar, selamat anda mendapatkan janda kembang 🎉")
         else:
             st.error("salah, mungkin anda belum ngopi!")
+
 
     st.caption("Kuis ini disusun oleh Cahyadi Ariansah")
